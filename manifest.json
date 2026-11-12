@@ -1,0 +1,10 @@
+{
+    "name": "M82",
+    "version_number": "0.1.0",
+    "website_url": "https://thunderstore.io/c/repo/p/cn_xc/M82/",
+    "description": "M82 反器材步枪：伤害 500、0.3 秒连发、5 发备弹、价格 8~9 万、无散布。依赖 REPOLib。",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Zehs-REPOLib-4.3.0"
+    ]
+}
